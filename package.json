@@ -1,0 +1,11 @@
+{
+  "name": "pelagic-atlas",
+  "version": "0.1.0",
+  "private": true,
+  "type": "module",
+  "description": "A source-aware interactive fish encyclopedia and 3D globe prototype",
+  "scripts": {
+    "test": "node scripts/smoke-test.mjs"
+  },
+  "engines": { "node": ">=20" }
+}
